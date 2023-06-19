@@ -2,10 +2,7 @@
 
 I do not have a lot to say.
 
-Currently working on [TwitchRewards](https://github.com/Gameoholic/TwitchRewards), [EchoLib](https://github.com/Gameoholic/EchoLib) and Fancy2FA
-
-
-I've successfully finished 2 Minecraft-related projects, and abandoned at least 10
+Stuff I'm sort of proud of: [TwitchRewards](https://github.com/Gameoholic/TwitchRewards), [Fancy2FA](https://github.com/Gameoholic/Fancy2FA/tree/main), [EchoLib](https://github.com/Gameoholic/EchoLib)
 
 
 My favorite anime is Better Call Saul
