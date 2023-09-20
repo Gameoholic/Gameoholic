@@ -12,7 +12,7 @@ WIP
 
 
 
-  <div align="center">
+  <div align="left">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=Gameoholic&show_icons=true&theme=dark"
