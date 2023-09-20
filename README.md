@@ -1,8 +1,5 @@
 ### Hi there 👋
+WIP
 
-I do not have a lot to say.
-
-Stuff I'm sort of proud of: [TwitchRewards](https://github.com/Gameoholic/TwitchRewards), [Fancy2FA](https://github.com/Gameoholic/Fancy2FA/tree/main), [EchoLib](https://github.com/Gameoholic/EchoLib)
-
-
-My favorite anime is Better Call Saul
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SirArchibald97&theme=dark)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats-seven-zeta-75.vercel.app/api/top-langs/?username=SirArchibald97&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
