@@ -13,3 +13,9 @@
     </picture>
   </div>
 </details>
+
+
+Some cool stuff I've made / am working on:
+https://github.com/Gameoholic/TwitchRewards
+https://github.com/Gameoholic/GrassConflicts
+https://github.com/Gameoholic/Partigon/tree/main
