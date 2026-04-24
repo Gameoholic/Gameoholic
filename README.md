@@ -4,6 +4,8 @@ Self-taught developer working across the stack.
 
 I've built backend systems in multiple languages, modded and built games, written renderers, and a few things in between. Currently focused on backend and fullstack web.
 
+Portfolio: [gameoholic.dev](https://gameoholic.dev)
+
 Outside work I make games in Godot and Unreal.
 Fluent in English, Russian, and Hebrew. Been studying Japanese for 2 years.
 
