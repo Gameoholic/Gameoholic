@@ -1,4 +1,5 @@
 Hi, I'm Daniel 👋
+
 Self-taught developer working across the stack.
 
 I've built backend systems in multiple languages, modded and built games, written renderers, and a few things in between. Currently focused on backend and fullstack web.
